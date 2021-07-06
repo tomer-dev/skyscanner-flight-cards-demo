@@ -1,0 +1,21 @@
+.legDurationInfo {
+  min-width: fit-content;
+}
+
+.durationLabel {
+  margin-top: 2px;
+  text-align: center;
+  color: #a6a1b0;
+}
+
+.stopsLabel {
+  margin-top: 10px;
+}
+
+.directLabel {
+  color: #48bdb2;
+}
+
+.indirectLabel {
+  color: #db6b7e;
+}

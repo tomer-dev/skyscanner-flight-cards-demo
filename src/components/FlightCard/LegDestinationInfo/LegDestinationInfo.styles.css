@@ -1,0 +1,22 @@
+.timePlaceInfo {
+  display: flex;
+  font-size: 22px;
+  margin-right: auto;
+}
+
+.arrow {
+  margin: 14px 14px 0;
+  fill: #b1aebd;
+}
+
+.labels {
+  margin: 0 8px;
+}
+
+.time {
+  margin-bottom: 12px;
+}
+
+.place {
+  color: #9d9aa8;
+}

@@ -4,22 +4,30 @@
     "node": "^12.10.0",
     "npm": "^6.10.3"
   },
-  "name": "full-stack-recruitment-test",
+  "name": "skyscanner-flight-cards-demo",
+  "description": "SkyScanner flight cards demo",
   "version": "1.0.0",
-  "description": "Skyscanner full-stack recruitment test.",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "CI=true react-scripts test"
+    "test": "react-scripts test"
   },
   "devDependencies": {
     "@skyscanner/backpack-react-scripts": "^9.0.2",
+    "@types/node-sass": "^4.11.1",
+    "@types/react": "^17.0.13",
+    "@types/react-dom": "^17.0.8",
+    "bpk-component-button": "^5.0.0",
+    "bpk-component-card": "^3.0.3",
+    "bpk-component-icon": "^9.0.3",
     "bpk-component-text": "^3.1.35",
     "bpk-mixins": "^20.1.17",
     "bpk-stylesheets": "^6.0.67",
+    "node-sass": "^4.14.1",
+    "prettier": "^2.3.2",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
-    "react-test-renderer": "^16.11.0"
+    "typescript": "^4.3.5"
   },
   "browserslist": [
     ">0.1%",

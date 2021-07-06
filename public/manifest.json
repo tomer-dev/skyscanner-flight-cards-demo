@@ -1,6 +1,6 @@
 {
-  "short_name": "Full-stack test",
-  "name": "Skyscanner full-stack recruitment test",
+  "short_name": "SkyScanner demo",
+  "name": "Skyscanner flight cards demo",
   "icons": [
     {
       "src": "favicon.ico",

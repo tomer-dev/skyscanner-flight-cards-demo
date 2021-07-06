@@ -1,0 +1,26 @@
+.flightCardFooter {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 4px;
+}
+
+.agentDetails {
+  margin-right: auto;
+}
+
+.price {
+  margin-left: 2px;
+  margin-bottom: 8px;
+  font-size: 36px;
+}
+
+.agent {
+  color: #c3c1cc;
+  font-size: 20px;
+}
+
+.selectButton {
+  width: 136px;
+  margin-top: 12px;
+  margin-right: 2px;
+}
